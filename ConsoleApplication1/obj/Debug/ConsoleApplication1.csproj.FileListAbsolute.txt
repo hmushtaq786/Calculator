@@ -1,0 +1,5 @@
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

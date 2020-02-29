@@ -1,0 +1,17 @@
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\MainWindow.baml
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\App.g.cs
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.g.resources
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\hamza mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Hamza Mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\Hamza Mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.application
+C:\Users\Hamza Mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\Hamza Mushtaq\onedrive - higher education commission\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.application
